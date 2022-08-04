@@ -6,7 +6,7 @@ const links = [
     url: "https://www.linkedin.com/in/cl%C3%A9ment-chalopin-355305178/",
     color: "#0a66c2",
   },
-  { title: "Github", url: "https://github.com/cchalop1/", color: "#161b22" },
+  { title: "Github", url: "https://github.com/cchalop1/", color: "#454545" },
 ];
 
 const Links: NextPage = () => {
