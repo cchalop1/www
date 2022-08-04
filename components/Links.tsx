@@ -7,6 +7,7 @@ const links = [
     color: "#0a66c2",
   },
   { title: "Github", url: "https://github.com/cchalop1/", color: "#454545" },
+  { title: "Resume", url: "https://drive.google.com/file/d/1X9-fWoXeATwYX1pRTHRg2HrCMqaeuDPf/view?usp=sharing", color: "#700700" },
 ];
 
 const Links: NextPage = () => {
